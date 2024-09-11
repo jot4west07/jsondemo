@@ -1,0 +1,49 @@
+{
+  "posts": [
+  
+{ "user_id": 1,
+ "title": "Crear ticket",
+ "description": "Se crea un ticket",
+ "due_date": "2024-09-17" 
+},
+
+{ "id": 101,
+ "user_id": 1,
+ "title": "Ticket creado",
+ "description": "Ticket creado por pedido del cliente",
+ "due_date": "2024-09-17",
+ "created_at": "2024-09-10T15:54:52Z" 
+},
+
+{ "user_id": 1,
+ "title": "Revisar ticket",
+ "description": "Se solicita revisar un ticket",
+ "due_date": "2024-09-17" 
+},
+
+{ "id": 101,
+ "user_id": 1,
+ "title": "Ticket revisado",
+ "description": "Ticket revisado por pedido del cliente",
+ "due_date": "2024-09-17",
+ "created_at": "2024-09-10T15:54:52Z" 
+},
+
+{ "user_id": 1,
+ "title": "Solucionar ticket",
+ "description": "Se solicita solucionar un ticket",
+ "due_date": "2024-09-17" 
+},
+
+{ "id": 101,
+ "user_id": 1,
+ "title": "Ticket solucionado",
+ "description": "Ticket solucionado por pedido del cliente",
+ "due_date": "2024-09-17",
+ "created_at": "2024-09-10T15:54:52Z" 
+}
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
